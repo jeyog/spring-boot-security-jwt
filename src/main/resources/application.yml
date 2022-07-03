@@ -1,0 +1,3 @@
+jwt:
+  secret-key: bC7skUPRPvs9m1DfTjd5wZrsHzEZ1WDQ
+  expiration: 1800
